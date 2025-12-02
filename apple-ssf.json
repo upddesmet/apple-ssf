@@ -1,0 +1,7 @@
+{
+  "issuer": "https://banqup.onelogin.com/oidc/2",
+  "authorization_endpoint": "https://banqup.onelogin.com/oidc/2/auth",
+  "token_endpoint": "https://banqup.onelogin.com/oidc/2/token",
+  "jwks_uri": "https://banqup.onelogin.com/oidc/2/certs",
+  "subject_types_supported": ["public"]
+}
